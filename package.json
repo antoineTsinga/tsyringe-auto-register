@@ -1,7 +1,7 @@
 {
   "name": "@justedou/tsyringe-auto-register",
   "version": "1.0.0",
-  "description": "Auto-registration helper for tsyringe with customizable role detection, icons, and documented API.",
+  "description": "Automatic dependency registration for tsyringe. Scan your project, auto-import DI files, and introspect your entire dependency container. Perfect for clean bootstraps, DX tooling, and debugging complex tsyringe setups.",
   "type": "module",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
