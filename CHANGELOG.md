@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/antoineTsinga/tsyringe-auto-register/compare/v1.0.0...v1.0.1) (2025-11-16)
+
+
+### Bug Fixes
+
+* Bump version to 1.0.1 ([b712f09](https://github.com/antoineTsinga/tsyringe-auto-register/commit/b712f09ed2ddb43d9e9142acccee2d94c1770b86))
+
 # 1.0.0 (2025-11-16)
 
 
