@@ -1,6 +1,6 @@
 {
   "name": "@justedou/tsyringe-auto-register",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatic dependency registration for tsyringe. Scan your project, auto-import DI files, and introspect your entire dependency container. Perfect for clean bootstraps, DX tooling, and debugging complex tsyringe setups.",
   "type": "module",
   "main": "./dist/cjs/index.js",
